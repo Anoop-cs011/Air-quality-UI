@@ -34,11 +34,15 @@ If you do not have the hardware, you may run the test code.
 
 2. Change the value of the parameter manually from 0 to 11 to check the program for changing gas values. Run the program **mainGUI.py**; no need to run **gas_sensor.ino**.
 
-![image](https://github.com/user-attachments/assets/7ff4e370-b272-4b72-9106-bfbd30badae2)
+![image](https://github.com/user-attachments/assets/17d21bac-b3fc-464e-a4d0-7f31a40e9c71)
+![image](https://github.com/user-attachments/assets/ae6bb6cf-6735-4df1-8c7e-69747b34edfe)
     
 *The colours are assigned based on the standards laid out by the [U.S. Environmental Protection Agency](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf)*
 
 3. The  “?” button is displayed whenever the concentrations of the gas reach levels that are not healthy. Clicking on the button displays the possible sources, effects on health & precautionary measures.
 
-![image](https://github.com/user-attachments/assets/cb4985c2-374a-492c-b821-e84fd48aff88)
+![image](https://github.com/user-attachments/assets/bd5e71fc-a8a0-4608-8087-b0a8cd97d5dd)
+![image](https://github.com/user-attachments/assets/37571fd1-85d6-47c7-ac33-81e5883f92d9)
+
+
 
